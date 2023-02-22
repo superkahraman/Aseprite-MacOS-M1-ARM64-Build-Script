@@ -1,4 +1,4 @@
-# Aseprite-MacOS-M1-ARM64-Build-Script
+# Aseprite MacOS M1 ARM64 Build Script
 
 This Bash Script 
 - downloads Aseprite v1.3 Beta 21 source files from Github 
